@@ -1,5 +1,5 @@
 import React from 'react';
-import "./style.css";
+import "./index.css";
 
 function skaterRow(props) {
     return (
@@ -13,3 +13,5 @@ function skaterRow(props) {
         </tr>
     )
 }
+
+export default skaterRow;
