@@ -3,7 +3,7 @@ import "./index.css";
 
 function skaterRow(props) {
     return (
-        <tr>
+        <tr className="table-row">
             <td>{props.id}</td> 
             <td><img src={props.image} alt={props.name} /></td>
             <td>{props.name}</td>

@@ -46,8 +46,8 @@ function App() {
   return (
     <>
       <Header />
-      <Search handleSearch={findSkater} />
       <Wrapper>
+      <Search handleSearch={findSkater} />
       <SkaterTable skaters={skaters.filtered} sortByName={sortByName} />
       </Wrapper>
     </>
