@@ -4,7 +4,7 @@
     "id": 1,
     "name": "Tony Hawk",
     "image":
-      "../public/skater-images/tonyhawk.jpg",
+      "skater-images/tonyhawk.jpg",
     "age": 31,
     "stance": "Goofy",
     "hometown": "Carlsbad"
@@ -13,7 +13,7 @@
     "id": 2,
     "name": "Bob Burnquist",
     "image":
-      "../public/skater-images/bobburnquist.jpg",
+      "skater-images/bobburnquist.jpg",
     "age": "22",
     "stance": "Regular",
     "hometown": "Encinitas"
@@ -22,7 +22,7 @@
     "id": 3,
     "name": "Kareem Campbell",
     "image":
-      "../public/skater-images/kareemcampbell.jpg",
+      "skater-images/kareemcambell.jpg",
     "age": "25",
     "stance": "Regular",
     "hometown": "Los Angelos"
@@ -31,7 +31,7 @@
     "id": 4,
     "name": "Rune Glifberg",
     "image":
-      "../public/skater-images/runeglifberg.jpg",
+      "skater-images/runeglifberg.jpg",
     "age": "25",
     "stance": "Regular",
     "hometown": "Copenhagen"
@@ -40,7 +40,7 @@
     "id": 5,
     "name": "Buckey Lasek",
     "image":
-      "../public/skater-images/buckeylasek.jpg",
+      "skater-images/buckylasek.jpg",
     "age": "26",
     "stance": "Regular",
     "hometown": "Carlsbad"
@@ -49,7 +49,7 @@
     "id": 6,
     "name": "Chad Muska",
     "image": 
-      "../public/skater-images/chadmuska.jpg",
+      "skater-images/chadmuska.jpg",
     "age": "22",
     "stance": "Regular",
     "hometown": "Los Angeles"
@@ -58,7 +58,7 @@
     "id": 7,
     "name": "Andrew Reynolds",
     "image":
-      "../public/skater-images/andrewreynolds.jpg",
+      "skater-images/andrewreynolds.jpg",
     "age": "20",
     "stance": "Regular",
     "hometown": "Huntington Beach"
@@ -67,7 +67,7 @@
     "id": 8,
     "name": "Geoff Rowley",
     "image":
-      "../public/skater-images/geoffrowley",
+      "skater-images/geoffrowley.jpg",
     "age": "23",
     "stance": "Regular",
     "hometown": "Huntington Beach"
@@ -76,7 +76,7 @@
     "id": 9,
     "name": "Elissa Steamer",
     "image":
-      "../public/skater-images/elissasteamer.jpg",
+      "skater-images/elissasteamer.jpg",
     "age": "24",
     "stance": "Regular",
     "hometown": "Huntington Beach"
