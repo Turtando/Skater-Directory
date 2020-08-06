@@ -39,7 +39,7 @@ Christopher Turton
 
 
 # Test
-
+![](./public/skaterdisplay.jpg)
 Below is a gif of the deployed website.
 ![](./public/skaterdb.gif)
 
