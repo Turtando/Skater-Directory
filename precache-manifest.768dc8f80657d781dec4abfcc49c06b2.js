@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "2d2c7b94464eb4f2086c",
-    "url": "/Skater-Directory/static/css/main.3c3d68e7.chunk.css"
+    "revision": "7cdc1da4ea36589bbbe4",
+    "url": "/Skater-Directory/static/css/main.64239116.chunk.css"
   },
   {
-    "revision": "2d2c7b94464eb4f2086c",
-    "url": "/Skater-Directory/static/js/main.cbc3e438.chunk.js"
+    "revision": "7cdc1da4ea36589bbbe4",
+    "url": "/Skater-Directory/static/js/main.2d525811.chunk.js"
   },
   {
     "revision": "31df70b53e49238faa49",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/Skater-Directory/static/media/423562.b768e234.png"
   },
   {
-    "revision": "b137b64322330fbbae3da65a194661a3",
+    "revision": "8355927ef2a19aeeaece3373b4d46c8d",
     "url": "/Skater-Directory/index.html"
   }
 ];

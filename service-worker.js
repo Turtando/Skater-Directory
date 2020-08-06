@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Skater-Directory/precache-manifest.2738e439a46f32392c3d6a9f79d1d8a7.js"
+  "/Skater-Directory/precache-manifest.768dc8f80657d781dec4abfcc49c06b2.js"
 );
 
 workbox.clientsClaim();
