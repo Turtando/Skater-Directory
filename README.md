@@ -41,7 +41,7 @@ Christopher Turton
 # Test
 
 Below is a gif of the deployed website.
-![](.\public\skaterdb.gif)
+![](./public/skaterdb.gif)
 
 
 # Questions
